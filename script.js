@@ -1,6 +1,6 @@
 
 // Initialize the map
-var map = L.map('map').setView([40.7128, -74.0060], 80); // Default location (New York)
+var map = L.map('map').setView([19.0760, 72.8777], 5); // Default location (New York)
 
 // Load OpenStreetMap tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
